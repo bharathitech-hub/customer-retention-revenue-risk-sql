@@ -77,9 +77,7 @@ These insights support proactive retention strategies and revenue risk mitigatio
 ---
 
 ## 🗂️ Repository Structure
-
 customer-retention-revenue-risk-sql/
-│
 ├── README.md
 ├── LICENSE
 ├── schema.sql
@@ -96,8 +94,6 @@ customer-retention-revenue-risk-sql/
 │
 └── insights/
 └── business_insights.md
-
-
 ---
 
 ## 🛠️ Tools & Technologies

@@ -77,24 +77,26 @@ These insights support proactive retention strategies and revenue risk mitigatio
 ---
 
 ## 🗂️ Repository Structure
+
+```
 customer-retention-revenue-risk-sql/
 ├── README.md
 ├── LICENSE
 ├── schema.sql
 │
 ├── data/
-│ └── customers.csv
+│   └── customers.csv
 │
 ├── queries/
-│ ├── revenue_concentration.sql
-│ ├── churn_risk_signals.sql
-│ ├── customer_segmentation.sql
-│ ├── payment_failure_analysis.sql
-│ └── cohort_retention.sql
+│   ├── revenue_concentration.sql
+│   ├── churn_risk_signals.sql
+│   ├── customer_segmentation.sql
+│   ├── payment_failure_analysis.sql
+│   └── cohort_retention.sql
 │
 └── insights/
-└── business_insights.md
----
+    └── business_insights.md
+```
 
 ## 🛠️ Tools & Technologies
 
